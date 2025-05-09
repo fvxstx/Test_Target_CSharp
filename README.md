@@ -32,7 +32,7 @@ O projeto está organizado da seguinte forma:
 
 ## 👨‍💻 Autor
 
-[Fausto Torres]
+Fausto Torres
 
 ---
 
